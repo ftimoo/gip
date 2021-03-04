@@ -1,2 +1,0 @@
-# gip
-mijn gip project
