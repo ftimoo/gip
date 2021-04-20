@@ -30,6 +30,5 @@ for rij in colommen:
     for elenment in rij:
         print(elenment)
     i += 1
-
 img.save('testrgb.png')
 input("")
